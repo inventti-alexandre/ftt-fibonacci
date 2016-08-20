@@ -1,0 +1,6 @@
+C:\Users\Nappi\Documents\GitHub\desafio02\desafio02\bin\Debug\desafio02.exe.config
+C:\Users\Nappi\Documents\GitHub\desafio02\desafio02\bin\Debug\desafio02.exe
+C:\Users\Nappi\Documents\GitHub\desafio02\desafio02\bin\Debug\desafio02.pdb
+C:\Users\Nappi\Documents\GitHub\desafio02\desafio02\obj\Debug\desafio02.csprojResolveAssemblyReference.cache
+C:\Users\Nappi\Documents\GitHub\desafio02\desafio02\obj\Debug\desafio02.exe
+C:\Users\Nappi\Documents\GitHub\desafio02\desafio02\obj\Debug\desafio02.pdb
