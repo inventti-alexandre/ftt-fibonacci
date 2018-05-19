@@ -1,2 +1,3 @@
-# 2016_S1_desafio
-Desafio de contagem de números com C#
+# ftt-fibonacci
+Implementando a Sequência de Fibonacci em C#
+AlgoritmosII (2016-S1)
